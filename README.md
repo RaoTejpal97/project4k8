@@ -1,7 +1,6 @@
 <include a CircleCI status badge, here>
 
-!https://circleci.com/github/cci-oe5sqg/project4k8.svg?style=svg!:https://app.circleci.com/pipelines/circleci/RKFaP6pfT5GcNKvRBQBqva/KF6HSFLcf2yYEZtLdQ65vh/4/workflows/0f8775cb-7297-4a43-b6ef-d372548c5a59/jobs/3
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/RKFaP6pfT5GcNKvRBQBqva/KF6HSFLcf2yYEZtLdQ65vh/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/RKFaP6pfT5GcNKvRBQBqva/KF6HSFLcf2yYEZtLdQ65vh/tree/main)
 
 ## Project Overview
 
