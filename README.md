@@ -48,3 +48,22 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+### Files included:
+
+* .circleci - circleci config scripts
+* model_data - ML model related data (model, csv data)
+* output_txt_files - project output files (docker, kubernetes)
+* docker_out.txt - run_docker.sh output
+* docker_prediction_out.txt - make_prediction.sh output while running docker
+* kubernetes_container_logs.txt - kubectl logs output for the pod
+* kubernetes_out.txt - run_kubernetes.sh output
+* kubernetes_prediction_out.txt - make_prediction.sh output while running k8s pod
+* app.py - python web application entry point file
+* Dickerfile - docker image config
+* make_prediction.sh - make prediction HTTP call script
+* Makefile - make file (install, test, lint steps)
+* requirements.txt - web application dependencies (python, libraries)
+* run_docker.sh - run docker container script
+* run_kubernetes.sh - run kubernetes pod for the web app script
+* upload_docker.sh - upload docker image to dicker hub script
