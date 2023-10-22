@@ -22,8 +22,8 @@ COPY . app.py /app/
 COPY ./model_data /app/
 
 
-RUN pip install --no-cache-dir --upgrade-pip && \
-    pip install --no-cache-dir -r requirements.txt
+RUN pip install --upgrade pip &&\
+    pip install --trusted-host pypi.python.org -r requirements.txt
 
 EXPOSE 80
 
