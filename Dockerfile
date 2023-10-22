@@ -22,8 +22,7 @@ COPY . app.py /app/
 COPY ./model_data /app/
 
 
-RUN pip install --upgrade pip &&\
-    pip install --trusted-host pypi.python.org -r requirements.txt
+RUN pip install --trusted-host pypi.python.org -r requirements.txt
 
 EXPOSE 80
 
