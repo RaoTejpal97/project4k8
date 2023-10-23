@@ -1,6 +1,6 @@
 <include a CircleCI status badge, here>
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/RKFaP6pfT5GcNKvRBQBqva/KF6HSFLcf2yYEZtLdQ65vh/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/RKFaP6pfT5GcNKvRBQBqva/KF6HSFLcf2yYEZtLdQ65vh/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/RKFaP6pfT5GcNKvRBQBqva/KF6HSFLcf2yYEZtLdQ65vh/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/RKFaP6pfT5GcNKvRBQBqva/KF6HSFLcf2yYEZtLdQ65vh/tree/master)
 
 ## Project Overview
 
